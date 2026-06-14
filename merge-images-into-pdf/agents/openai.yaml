@@ -1,0 +1,4 @@
+interface:
+  display_name: "Merge Images Into PDF"
+  short_description: "Turn page photos into clean PDFs"
+  default_prompt: "Use $merge-images-into-pdf to rotate, flatten, and combine these page photos into PDFs."
